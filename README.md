@@ -1,2 +1,2 @@
-# Dio---Forma-o-Power-BI-Analyst
-Curso de Power BI
+# Formação Power BI Analyst
+Curso de Power BI feito na Dio
