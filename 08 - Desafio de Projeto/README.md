@@ -7,7 +7,7 @@ Criar pelo menos dois visuais considerando a criação de parâmetros.
 
 - Primeira visão: parâmetro com base em categorias.
 - Segunda visão: parâmetros com base em valores (profit, sales, ou outros).
-- Siguir a mesma estilização do relatório.
+- Seguir a mesma estilização do relatório.
 - Criar uma história para apresentar essa visão sobre os dados.
 
 # Tela Categoria & Valores (Visão Gráfico)
