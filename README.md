@@ -132,7 +132,7 @@ Trabalhei com:
 - **Power Query Editor** (M)
 - **DAX** e **DAX Studio**
 - **MySQL / MySQL Workbench / DBeaver**
-- **Excel / CSV / APIs / SharePoint**
+- **Excel / CSV / APIs / OneDrive**
 - **Azure Storage / Power BI Gateway**
 
 ---
