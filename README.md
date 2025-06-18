@@ -150,7 +150,7 @@ Concluí o curso de Power BI com foco em análise de dados, modelagem, DAX e cri
 Caso tenha interesse em conhecer mais sobre meus projetos ou me contatar profissionalmente:
 
 - 📧 Email: carlostitoaz@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/carlostitoaz]([https://linkedin.com/in/seunome](https://www.linkedin.com/in/carlostitoaz/))  
+- 💼 LinkedIn: https://www.linkedin.com/in/carlostitoaz/  
 
 ---
 
